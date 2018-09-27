@@ -1,1 +1,1 @@
-# DS-and-Algos-in-C-
+# Data Structures and Algorithms in C++
