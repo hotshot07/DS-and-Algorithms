@@ -1,3 +1,5 @@
+//This uses start as a Node
+//For start as a pointer, refer to the 'pointy' version. Thanks
 #include<bits/stdc++.h>
 
 using namespace std;
